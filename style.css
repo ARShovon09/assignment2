@@ -11,7 +11,9 @@ h1 {
     color: crimson;
     font-family: fantasy;
 }
-
+h3{
+    color: green;
+}
 .btn img {
     width: 30px;
 }
