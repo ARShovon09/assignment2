@@ -17,6 +17,9 @@ h3{
 .btn img {
     width: 30px;
 }
+.card.mb-3.uno.shadow {
+    border-radius: 2em;
+}
 .uno img {
     width: 60%;
 }
