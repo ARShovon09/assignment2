@@ -1,13 +1,17 @@
+header {
+    background-color: rgb(220, 248, 248);
+}
 .logo img{
-    width: 30%;
+    width: 40%;
+}
+.navbar {
+    
 }
 h1 {
     color: crimson;
-    font-family: sans-serif;
+    font-family: fantasy;
 }
-.my-car-footer {
-    
-}
+
 .btn img {
     width: 30px;
 }
